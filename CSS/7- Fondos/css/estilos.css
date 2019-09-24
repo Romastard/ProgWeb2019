@@ -1,0 +1,13 @@
+body{
+    /* background: url('../imagenes/floor-tile.png'); */
+    /* background-repeat: no-repeat;
+    background-position: center 50px; */
+    background-repeat: repeat;
+    color: black;
+
+    background: #800080;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, rgba(255, 192, 203, .5), rgba(128, 0, 128, .5)), url('../imagenes/floor-tile.png') ;  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, rgba(255, 192, 203,.5), rgba(128, 0, 128,.5)), url('../imagenes/floor-tile.png'); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+

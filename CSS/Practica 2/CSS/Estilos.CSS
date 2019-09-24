@@ -1,0 +1,28 @@
+h1{
+    background: blue;
+    color: white;
+    margin: 18px;
+    text-align: center;
+    
+}
+
+p{
+    color: white;
+
+}
+a{
+    background: orange;
+    font-size: 2em;
+}
+
+.atenuar{
+    font-size: 20px;
+}
+
+div{
+    background: green;
+}
+body{
+    background: black;
+    font-family: Verdana;
+}

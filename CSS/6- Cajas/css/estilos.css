@@ -1,0 +1,14 @@
+div{
+    background: rgb(249, 202, 36);
+    color: #ffffff;
+    width: 40%;
+    height: 140px;
+    padding: 30px;
+    margin: 10px;
+    /* margin-top
+    margin-bottom
+    margin-left
+    margin-right */
+    border: 10px solid #000;
+    display: inline-block;
+}
